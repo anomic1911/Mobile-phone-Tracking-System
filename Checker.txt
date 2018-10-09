@@ -1,0 +1,100 @@
+switchOnMobile 34 67
+addExchange 24 69
+queryMobilePhoneSet 58
+switchOffMobile 64
+addExchange 81 45
+switchOffMobile 61
+switchOnMobile 42 95
+switchOffMobile 36
+switchOnMobile 2 4
+queryMobilePhoneSet 92
+switchOffMobile 21
+switchOnMobile 95 18
+switchOffMobile 26
+switchOnMobile 69 38
+switchOffMobile 67
+queryNthChild 35
+queryNthChild 3
+switchOnMobile 33 22
+queryMobilePhoneSet 64
+switchOnMobile 53 11
+queryMobilePhoneSet 47
+queryNthChild 62
+switchOffMobile 37
+queryNthChild 23
+switchOnMobile 78 29
+switchOnMobile 90 35
+switchOffMobile 88
+switchOnMobile 42 40
+queryNthChild 48
+switchOnMobile 90 5
+queryNthChild 70
+addExchange 1 6
+queryMobilePhoneSet 48
+queryNthChild 23
+queryNthChild 54
+switchOnMobile 66 40
+switchOnMobile 8 31
+queryNthChild 39
+switchOnMobile 37 23
+queryMobilePhoneSet 18
+switchOffMobile 29
+switchOnMobile 15 33
+queryNthChild 58
+queryNthChild 30
+switchOffMobile 6
+queryMobilePhoneSet 86
+switchOnMobile 24 45
+switchOffMobile 70
+queryNthChild 77
+queryMobilePhoneSet 97
+switchOffMobile 86
+addExchange 36 61
+addExchange 55 67
+queryNthChild 31
+switchOffMobile 50
+addExchange 24 41
+switchOnMobile 7 30
+switchOnMobile 37 7
+switchOffMobile 87
+queryMobilePhoneSet 83
+addExchange 9 9
+queryMobilePhoneSet 21
+queryMobilePhoneSet 22
+switchOnMobile 30 6
+queryMobilePhoneSet 68
+addExchange 62 91
+addExchange 59 10
+queryNthChild 37
+queryMobilePhoneSet 83
+addExchange 2 41
+addExchange 36 91
+queryNthChild 20
+switchOnMobile 48 21
+queryNthChild 68
+queryNthChild 81
+queryNthChild 53
+queryNthChild 18
+queryMobilePhoneSet 0
+queryMobilePhoneSet 27
+switchOffMobile 28
+queryMobilePhoneSet 48
+queryMobilePhoneSet 7
+switchOnMobile 17 10
+queryMobilePhoneSet 14
+queryNthChild 16
+addExchange 0 51
+queryNthChild 19
+switchOnMobile 3 98
+queryNthChild 8
+queryNthChild 9
+queryNthChild 2
+addExchange 93 85
+queryMobilePhoneSet 23
+switchOffMobile 14
+queryMobilePhoneSet 48
+addExchange 18 58
+addExchange 98 96
+switchOnMobile 98 89
+queryNthChild 57
+switchOffMobile 22

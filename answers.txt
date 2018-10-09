@@ -1,0 +1,18 @@
+queryLowestRouter 2 3: 0
+queryNthChild 0 0: 1
+queryNthChild 0 2: 3
+queryLowestRouter 4 5: 1
+queryNthChild 2 0: 6
+queryNthChild 3 0: 9
+queryFindPhone 989: Error - No mobile phone with identifier 989 found in the network
+queryFindPhone 989: 4
+queryMobilePhoneSet 4: 989, 876
+queryMobilePhoneSet 1: 989, 876
+queryMobilePhoneSet 1: 989, 876, 656, 54
+queryMobilePhoneSet 1: 989, 876, 54
+queryMobilePhoneSet 0: 989, 876, 54, 213, 568, 897, 295, 346
+queryFindCallPath 989 876: 4
+queryFindCallPath 989 876: 7, 2, 0, 1, 4
+queryFindCallPath 876 989: 4, 1, 0, 2, 7
+queryFindCallPath 876 989: Error - Mobile phone with identifier 989 is currently switched off
+queryFindCallPath 876 346: 4, 1, 0, 3, 9
